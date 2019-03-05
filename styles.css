@@ -1,0 +1,49 @@
+body{
+    background-color: #008080;
+}
+
+.container{
+    display: block;
+    justify-content: center;
+    border: solid 1px #f0ffff;
+    background-color: #f0ffff;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50px;
+    opacity:1.5;
+}
+
+h1{
+    font-family:cabin sketch;
+    text-align: center;
+    color:#008080;
+}
+
+input{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+button{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 25%;
+    background-color:#5f9ea0;
+    color:#f0ffff;
+}
+
+h3{
+  text-align: center; 
+  font-family: Nanum pen script;
+  font-size: 26px;
+  color:#008080;
+}
+
+h2{
+    font-family: fredericka the great;
+    text-align: center;
+    color: #2f4f4f;
+}
